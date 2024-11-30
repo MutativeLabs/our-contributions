@@ -1,6 +1,6 @@
 # Stake DAO
 
-Website: [https://www.stakedao.org/](https://www.stakedao.org/)
+Website: [Link](https://www.stakedao.org/)
 
 ## Overview
 
