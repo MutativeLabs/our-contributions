@@ -1,5 +1,7 @@
 # Stake DAO
 
+Website: [https://www.stakedao.org/](https://www.stakedao.org/)
+
 ## Overview
 
 Stake DAO is a decentralized finance (DeFi) protocol that launched in 2021, specializing in governance optimization and yield generation. The platform has grown alongside the evolution of Curve Finance and other DeFi protocols, particularly leveraging veTokenomics systems. Stake DAO's core mission is to transform governance voting power into sustainable value streams, allowing protocols to maximize their governance utility while creating additional revenue opportunities.
